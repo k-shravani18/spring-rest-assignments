@@ -1,0 +1,5 @@
+package com.airlines.model;
+
+public enum City {
+	BANGALORE, HYDERABAD,DELHI,PUNE,CHENNAI,VIZAG,MUMBAI,JAIPUR,COIMBATORE,COCHIN
+}
